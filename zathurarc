@@ -1,0 +1,13 @@
+set guioptions "v"
+set recolor "true"
+
+set default-fg "#F1F1F1"
+set default-bg "#131313"
+
+set recolor-darkcolor "#000000"
+set recolor-lightcolor "#E3D8B8"
+
+set selection-clipboard clipboard
+map v toggle_statusbar
+
+#usar crtl+r pra mudar de cor
